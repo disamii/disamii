@@ -1,4 +1,4 @@
-![👋 Hi, my name is Samson Mamuye](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+![👋 Hi, my name is Samson Mamuye]
 
 ![Profile views](https://komarev.com/ghpvc/?username=samson360-code&label=Profile%20views&color=0e75b6&style=flat)
 <img align="right" alt="coding" width="400" src="https://swansoftwaresolutions.com/wp-content/uploads/2020/04/05.14.20-Meet-a-Full-Stack-Developer-Vlad-Ryba-2.jpg">
