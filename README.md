@@ -5,21 +5,23 @@
 ---
 
 ### 🚀 **About Me**
-I’m a passionate **React** and **Django** developer with a strong focus on building **RESTful APIs** using **Django Rest Framework (DRF)**. I have experience in creating robust and scalable web applications by combining powerful back-end frameworks with dynamic front-end technologies.
-
-I’m well-versed in **React** for building responsive and interactive user interfaces and **Django** for handling the back-end and data management. I also have experience working with **Laravel** for building web applications and APIs. 
-
-My expertise includes designing and implementing **RESTful APIs** using **Django Rest Framework (DRF)**, ensuring smooth and efficient communication between front-end and back-end systems. I focus on creating clean, maintainable code and optimizing performance.
-
-I am currently pursuing two degrees: a **Computer Engineering** degree, which I am set to graduate from this year, and a **Computer Science** degree through an **extension program** at **Bahir Dar University**. My academic journey has given me a solid foundation in both hardware and software, and I continuously strive to expand my knowledge and expertise.
-
-I absolutely **love programming** and am driven by the challenge of solving complex problems and creating high-quality software solutions. My love for technology keeps me excited and committed to continuous learning and improvement in the field.
+- **Passionate Developer** specializing in **React**, **Django**, and **Django Rest Framework (DRF)**.
+- Experienced in **building RESTful APIs** and scalable web applications.
+- **Computer Engineering** degree (graduating this year) + **Computer Science** (extension program) from **Bahir Dar University**.
+- I **love programming** and constantly learning to improve my skills.
 
 ---
 
-### 🔧 **Current Work**
-- **Researcher profile management for Bahir-Dar UV**
-- **Electric interruption tracking system** with **geospatial analysis** of electric infrastructure.
+### 🔧 **Skills**
+- **Front-end**: React, JavaScript, TypeScript, Tailwind CSS
+- **Back-end**: Django, DRF, Laravel, PostgreSQL, MySQL
+- **Tools**: Git, VSCode, Next.js
+
+---
+
+### 🔥 **Current Work**
+- **Researcher profile management** at **Bahir-Dar UV**.
+- **Electric interruption tracking system** with geospatial analysis.
 
 ---
 
@@ -29,40 +31,22 @@ I absolutely **love programming** and am driven by the challenge of solving comp
 
 ---
 
-### 💬 **Ask Me About:**
-- **Django & Django Rest Framework (DRF)**
-- **React**
+### 💬 **Ask Me About**
 - **Building RESTful APIs with DRF**
-- **JavaScript**
-- **Tailwind CSS**
+- **React Development**
+- **Django & Backend Development**
 
 ---
 
-### **Connect With Me:**
+### **Connect With Me**
 - [GitHub](https://github.com/samson360-code)
 - [LinkedIn](https://www.linkedin.com/in/samson-mamuye)
 - [Twitter](https://twitter.com/samson360_code)
 
 ---
 
-### **Skills**
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="32">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" height="32">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" height="32">
-</div>
-
----
-
 ### **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=samson360-code&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=disamii&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400)
 
 ---
 
