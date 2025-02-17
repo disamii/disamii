@@ -15,7 +15,7 @@
 ### 🔧 **Skills**
 - **Front-end**: React, JavaScript, TypeScript, Tailwind CSS
 - **Back-end**: Django, DRF, Laravel, PostgreSQL, MySQL
-- **Tools**: Git, VSCode, Next.js
+- **Tools**: Git, VSCode, docer,linux
 
 ---
 
