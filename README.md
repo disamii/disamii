@@ -5,7 +5,15 @@
 ---
 
 ### 🚀 **About Me**
-I’m a **React** and **Django** developer with a strong focus on building **RESTful APIs** using **Django Rest Framework (DRF)**. I specialize in creating scalable and robust web applications by combining powerful back-end frameworks with dynamic front-end technologies. 
+I’m a passionate **React** and **Django** developer with a strong focus on building **RESTful APIs** using **Django Rest Framework (DRF)**. I have experience in creating robust and scalable web applications by combining powerful back-end frameworks with dynamic front-end technologies.
+
+I’m well-versed in **React** for building responsive and interactive user interfaces and **Django** for handling the back-end and data management. I also have experience working with **Laravel** for building web applications and APIs. 
+
+My expertise includes designing and implementing **RESTful APIs** using **Django Rest Framework (DRF)**, ensuring smooth and efficient communication between front-end and back-end systems. I focus on creating clean, maintainable code and optimizing performance.
+
+I am currently pursuing two degrees: a **Computer Engineering** degree, which I am set to graduate from this year, and a **Computer Science** degree through an **extension program** at **Bahir Dar University**. My academic journey has given me a solid foundation in both hardware and software, and I continuously strive to expand my knowledge and expertise.
+
+I absolutely **love programming** and am driven by the challenge of solving complex problems and creating high-quality software solutions. My love for technology keeps me excited and committed to continuous learning and improvement in the field.
 
 ---
 
