@@ -25,16 +25,16 @@
 
 ---
 
-### 🌱 **Currently Learning**
-- **Next.js**
-- **Golang**
+### 🌱 **Currently working On**
+- **Nextjs**
+- **NestJS**
 
 ---
 
 ### 💬 **Ask Me About**
 - **Building RESTful APIs with DRF**
-- **React Development**
-- **Django & Backend Development**
+- **Reactand NextJs Development**
+- **Django & Nest Development**
 
 ---
 
