@@ -7,7 +7,8 @@
 ### 🚀 **About Me**
 - **Passionate Developer** specializing in **React**, **Django**, and **Django Rest Framework (DRF)**.
 - Experienced in **building RESTful APIs** and scalable web applications.
-- **Computer Engineering** degree (graduating this year) + **Computer Science** (extension program) from **Bahir Dar University**.
+- **Computer Engineering** degree (graduated 2025) + **Computer Science** (extension program) from **Bahir Dar University**.
+-** second top scorer of class**
 - I **love programming** and constantly learning to improve my skills.
 
 ---
