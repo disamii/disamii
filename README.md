@@ -28,7 +28,12 @@
 
 ### 🌱 **Currently working On**
 - **Nextjs**
-- **NestJS**
+- **NestTS and Django Rest Framework DRF**
+
+
+
+### 🌱 **Currently Learning**
+- **Rust and Web3**
 
 ---
 
