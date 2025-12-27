@@ -52,8 +52,7 @@
 ---
 
 ### **GitHub Stats**
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=disamii&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&hide=html,jupyter%20notebook)](https://github-readme-stats.vercel.app/api/top-langs?username=disamii&theme=react&layout=compact&langs_count=6&hide=HTML,Jupyter Notebook
-)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=disamii&theme=react&layout=compact&langs_count=6&hide=HTML,Jupyter Notebook)]
 
 
 
