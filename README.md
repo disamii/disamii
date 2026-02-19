@@ -58,5 +58,3 @@
 
 ---
 
-### **Support Me**
-If you'd like to support my work, you can do so via [Ko-fi](https://ko-fi.com/samson_).
